@@ -1,7 +1,7 @@
 <!-- Profile Views Counter -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Siripurapu-MohanChandu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 <!-- Animated Wave Header -->
 <h1 align="center">
