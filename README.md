@@ -85,7 +85,7 @@ I'm **S Mohan Chandu** — a final-year B.Tech student on a mission to become a 
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -114,7 +114,7 @@ I'm **S Mohan Chandu** — a final-year B.Tech student on a mission to become a 
 </p>
 
 ---
-
+-->
 ## 🤝 Let's Connect & Build Together
 
 <p align="center">
